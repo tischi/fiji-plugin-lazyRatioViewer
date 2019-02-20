@@ -1,1 +1,1 @@
-# fiji-plugin
+# Lazy Ratio Viewer
